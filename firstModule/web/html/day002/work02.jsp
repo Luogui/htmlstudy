@@ -45,7 +45,7 @@
         </tr>
         <tr>
             <th>数学</th>
-            <th>90</th>
+            <th>9000</th>
         </tr>
     </tbody>
 

@@ -45,11 +45,49 @@
         </tr>
         <tr>
             <th>数学</th>
-            <th>9000</th>
+            <th>90</th>
         </tr>
     </tbody>
 
 </table>
+
+
+<table width="300px" id="tal" border="1px red" style="margin-top: 50px">
+
+    <thead>
+        <tr>
+            <td colspan="3"  style="text-align: center">学生成绩表</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">张三</td>
+            <td>语文</td>
+            <td>99</td>
+        </tr>
+        <tr>
+            <td>数学</td>
+            <td>99</td>
+        </tr>
+        <tr>
+            <td rowspan="2">李四</td>
+            <td>语文</td>
+            <td>99</td>
+        </tr>
+        <tr>
+            <td>数学</td>
+            <td>99</td>
+        </tr>
+    </tbody>
+
+    <tfoot>
+    <tr>
+        <td colspan="3"  style="text-align: center">学生成绩表</td>
+    </tr>
+    </tfoot>
+
+</table>
+
 
 </body>
 </html>
